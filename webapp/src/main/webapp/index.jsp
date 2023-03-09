@@ -32,6 +32,5 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Thankyou Team </h1>
-  <h1> Thankyou Team </h1>
+   <h1> Thankyou Karthik & Team </h1>
   </form>
